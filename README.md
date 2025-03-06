@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NUR SHOLIH SA'DUL KHOLQI</h1>
-<h3 align="center">A Passionate Developer from Indonesia</h3>
+<h3 align="center"> front end Developer/blade </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmearss&label=Profile%20views&color=0e75b6&style=flat" alt="itsmearss" /> </p>
 
